@@ -1,0 +1,1 @@
+exceptionFilter=com.example.dubbo.demo.provider.filter.ExceptionFilter
